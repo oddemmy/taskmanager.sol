@@ -1,4 +1,4 @@
-# taskmanager.sol
+
 # Decentralized Task Manager
 A Solidity smart contract for managing tasks with ERC-20 token rewards, built to flex intermediate-to-advanced Solidity skills.
 
