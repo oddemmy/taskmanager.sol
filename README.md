@@ -21,7 +21,7 @@ A Solidity smart contract for managing tasks with ERC-20 token rewards, built to
 - Auditable for token handling and access control bugs, great for security training.
 
 # Setup
-1. Clone this repo: `git clone https://github.com/[your-username]/Task-Manager`
+1. Clone this repo: `git clone https://github.com/oddemmy/Task-Manager`
 2. Open `TaskManager.sol` in Remix IDE (remix.ethereum.org).
 3. Import OpenZeppelin contracts for IERC20 and Ownable.
 
